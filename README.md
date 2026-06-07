@@ -3,15 +3,15 @@
 
 - 🔭 I’m currently working on [Portfolio Website](https://www.reyndoming.site/)
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Node.js**
 
 - 👨‍💻 All of my projects are available at [https://www.reyndoming.site/](https://www.reyndoming.site/)
 
-- 💬 Ask me about **Laravel, ASP.Net, React**
+- 💬 Ask me about **Laravel, ASP.Net, React, Python**
 
 - 📫 How to reach me **reyndoming@gmail.com**
 
-- ⚡ Fun fact **I think I'm funny**
+- ⚡ Fun fact **I think I'm funny cuz haha*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
